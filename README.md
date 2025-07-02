@@ -27,10 +27,22 @@ The analysis includes both **total** and **average** emissions perspectives to u
 - 📊 Explore **temporal trends** in CO₂ emissions from 2000–2021  
 - 🧭 Identify **top-emitting states**, sectors, and fuel sources  
 - 🔎 Investigate **sector–fuel relationships** using heatmaps  
-- 🗺️ Visualize **geospatial emissions** using choropleth maps  
+- 🗺️ Visualize **geospatial emissions** using choropleth maps
+-  ### 🌍 Interactive Choropleth Maps
+-  here are the links to choropleth as they were not viewable in the notebook:
+- [Average CO₂ Emissions by U.S. State (1970–2021)](file:///Users/simbarashemandiveyi/Desktop/avg_emissions_by_state_map.html)
+- [Total CO₂ Emissions by U.S. State (1970–2021)](file:///Users/simbarashemandiveyi/Desktop/total_emissions_by_state_map.html)
+
 - 📌 Deep-dive case study: **Texas emissions breakdown**  
 - 🧩 Discover correlations between categorical variables (fuel & sector)
 
+---
+## 🧰 Tools & Libraries
+
+- **Python** (Pandas)
+- **Matplotlib**, **Seaborn**, **Plotly** (for interactive and static data visualization)
+- **Jupyter Notebook** (analysis and storytelling)
+- **GitHub** (project sharing and version control)
 ---
 
 ## 🛠️ Features
@@ -42,15 +54,29 @@ The analysis includes both **total** and **average** emissions perspectives to u
 - Interactive **Plotly choropleth** maps for geospatial insight  
 - **Correlation heatmaps** of sector–fuel usage relationships  
 - Export-ready visualizations for portfolio or reports
+---
+
+## 📊 Key Insights
+
+- Petroleum is the dominant fuel source behind emissions in multiple sectors.
+- The **Electric Power** and **Transportation** sectors are consistently top emitters.
+- **Texas** leads in total emissions across decades, especially from petroleum-based fuels.
+- National emissions show cyclical dips around economic downturns and energy reforms.
+- Heatmaps and correlation matrices reveal sector-fuel relationships and spatial patterns.
+---
+
+## 📌 Future Work
+
+- Integrate **climate risk indicators** and **policy timelines**
+- Build a **dashboard version** of key insights (e.g., Streamlit or Power BI)
+- Apply **machine learning models** to forecast emissions by state or sector
+- Compare with **global emissions data** for broader context
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
 
 ---
 
-## 📁 Repository Structure
-
-```bash
-US_carbon_emissions_analysis/
-├── US_carbon_emissions_analysis.ipynb     # Main Jupyter Notebook
-├── data/                                  # Source data (optional)
-├── figures/                               # Exported visuals for report/presentation
-├── README.md                              # This file
-└── LICENSE                                # (Optional) License info
+**Author**: Simbarashe Mandiveyi  
+**LinkedIn**: www.linkedin.com/in/simbarashe-m-958378b5  
