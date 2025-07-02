@@ -1,3 +1,8 @@
+
+
+![image](https://github.com/user-attachments/assets/bc847ee3-9b45-493d-ba7d-3edc08037634)
+
+
 # 🌍 U.S. Carbon Emissions Analysis (EDA)
 
 This repository showcases a data-driven **Exploratory Data Analysis (EDA)** project focused on understanding **carbon dioxide (CO₂) emissions trends across the United States**. The project draws from publicly available emissions data to extract strategic insights that support **climate action, ESG reporting, and policy development**.
