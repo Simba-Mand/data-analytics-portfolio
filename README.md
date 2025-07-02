@@ -65,11 +65,10 @@ The analysis includes both **total** and **average** emissions perspectives to u
 - Heatmaps and correlation matrices reveal sector-fuel relationships and spatial patterns.
 ---
 
-## 📌 Future Work
+## 📌 Possible Future Work
 
-- Integrate **climate risk indicators** and **policy timelines**
 - Build a **dashboard version** of key insights (e.g., Streamlit or Power BI)
-- Apply **machine learning models** to forecast emissions by state or sector
+- Apply **machine learning models** to forecast emissions by state, sector or fuel type
 - Compare with **global emissions data** for broader context
 
 ## 📄 License
