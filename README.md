@@ -5,7 +5,7 @@
 
 # 🌍 U.S. Carbon Emissions Analysis (EDA)
 
-This repository showcases a data-driven **Exploratory Data Analysis (EDA)** project focused on understanding **carbon dioxide (CO₂) emissions trends across the United States**. The project draws from publicly available emissions data to extract strategic insights that support **climate action, ESG reporting, and policy development**.The analysis is viewable in the US_carbon_emissions_analysis jupyter notebook.
+This repository showcases a data-driven **Exploratory Data Analysis (EDA)** project focused on understanding **carbon dioxide (CO₂) emissions trends across the United States**. The project draws from publicly available emissions data to extract strategic insights that support **climate action, ESG reporting, and policy development**.The analysis is viewable in the US_carbon_emissions_analysis.ipynb jupyter notebook.
 
 ---
 
