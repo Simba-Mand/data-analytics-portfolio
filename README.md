@@ -29,9 +29,7 @@ The analysis includes both **total** and **average** emissions perspectives to u
 - 🔎 Investigate **sector–fuel relationships** using heatmaps  
 - 🗺️ Visualize **geospatial emissions** using choropleth maps
 -  ### 🌍 Interactive Choropleth Maps
--  here are the links to choropleth as they were not viewable in the notebook:
-- [Average CO₂ Emissions by U.S. State (1970–2021)](https://<username>.github.io/<repo>/avg_emissions_by_state.html)
-- [Total CO₂ Emissions by U.S. State (1970–2021)](https://<username>.github.io/<repo>/total_emissions_by_state.html)
+-  Pictures of the Choropleth Maps viewable in the files tab
 - 📌 Deep-dive case study: **Texas emissions breakdown**  
 - 🧩 Discover correlations between categorical variables (fuel & sector)
 
