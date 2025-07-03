@@ -67,7 +67,7 @@ The analysis includes both **total** and **average** emissions perspectives to u
 - Build a **dashboard version** of key insights (e.g., Streamlit or Power BI).
 - Apply **machine learning models** to forecast emissions by state, sector or fuel type.
 - Compare with **global emissions data** for broader context.
-- Explore climate/sustainability data within the African context.
+- Possibly explore climate/sustainability data within the African context.
 
 ## 📄 License
 
